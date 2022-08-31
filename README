@@ -1,3 +1,5 @@
+Note that this is a fork borrowed from https://github.com/YPlan/python-geoip thats been modified to support running with Py3
+
 python-geoip
 ============
 
